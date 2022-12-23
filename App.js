@@ -38,7 +38,7 @@ export default function App() {
     return (
         <SafeAreaView style={{flex: 1}} onLayout={onLayoutRootView}>
             <View>
-                <StatusBar/>
+                <StatusBar barStyle="dark-content"/>
                 <Cesta {...mock}/>
             </View>
         </SafeAreaView>
