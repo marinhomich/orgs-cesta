@@ -1,35 +1,15 @@
-# React Native: Começando do Zero
+# Orgs Cesta
+> This project implements the orgs e-commerce basket detail screen. In this screen, static data of the name of the basket, farm, price and basket items are shown.
 
-## Project
+## Technologies Used
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
 
-This project implements the *orgs* e-commerce basket detail screen. In this screen, static data of the name of the basket, farm, price and basket items are shown.
+## Screenshots
+<img alt="Orgs Cesta" src="./readme-files/screenshot.gif" width="250"/>
 
-<img src="./readme-files/screenshot.gif" width="250"/>
 
-
-## Built with
-
-- `Expo`
-- `React Native Components`
-    - `Text`
-    - `View`
-    - `ScrollView`
-    - `Image`
-    - `TouchableOpacity`
-- `Custom Components`
-- `Expo Google Fonts`
-- `StyleSheet`
-- `Dimensions`
-
-## Try it now!
-
-### Clone to local
-
-```
-git clone https://github.com/marinhomich/orgs-cesta.git
-```
-
-### Usage
+## Usage
 
 Run
 ```
@@ -40,5 +20,3 @@ Start
 ```
 npm start
 ```
-
-
